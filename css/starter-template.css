@@ -9,6 +9,13 @@ body {
   text-align: center;
 }
 
+p {
+  padding: 1rem;
+  line-height: 115%;
+  margin-bottom: 0.25cm;
+  font-family: "Liberation Mono", monospace;
+}
+
 h3 {
   padding:2rem;
 }
